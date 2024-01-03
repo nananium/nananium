@@ -1,6 +1,12 @@
 ### Hi I am NANA 👋
 
 <a href="www.instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+
+![js](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **nananium/nananium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
